@@ -18,3 +18,18 @@ const { data: places, isLoading, refetch } = useQuery('places', () => fetch('htt
         <Place key={place._id} place={place} refetch={refetch}></Place>
     ))}
 
+
+
+//edit index js file simple 
+//go to react query web site see details
+
+import { QueryClient, QueryClientProvider, useQuery } from 'react-query'
+ const queryClient = new QueryClient()
+
+ 
+  
+     <QueryClientProvider client={queryClient}>
+       <Example />
+     </QueryClientProvider>
+   
+ 
