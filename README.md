@@ -5,5 +5,9 @@
 <li>https://9elements.github.io/fancy-border-radius/</li>
 <h5>font chanfer </h5>
 <li>https://lingojam.com/FontChanger</li>
+<h5>Animation </h5>
+<li>https://animista.net/play/</li>
+
+
 
 </ul>
