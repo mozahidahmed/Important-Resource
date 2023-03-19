@@ -13,5 +13,45 @@
 
 
 
+<p>
+<h3>code formatting vs code</h3>
+
+{
+  "editor.fontSize": 18,
+  "editor.formatOnSave": true,
+  "html.autoClosingTags": true,
+
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.autoSave": "afterDelay",
+  "editor.lineHeight": 1.5,
+  "material-ui-snippets.showNotesOnStartup": false,
+  "editor.formatOnPaste": true,
+  "diffEditor.codeLens": true,
+  "diffEditor.diffAlgorithm": "experimental",
+  "editor.autoClosingOvertype": "always",
+  "workbench.colorTheme": "Dracula",
+  "auto-close-tag.fullMode": true,
+  "emmet.triggerExpansionOnTab": true,
+  "files.associations": {
+    "*html": "html"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "auto-close-tag.disableOnLanguage": [],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.linkedEditing": true
+}
+
+
+</p>
+
+
+
+
 
 </ul>
