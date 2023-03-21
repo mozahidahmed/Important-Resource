@@ -52,6 +52,7 @@
 
 
 
+<p> "editor.guides.bracketPairs": "active",<p>
 
 
 </ul>
