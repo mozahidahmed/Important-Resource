@@ -14,7 +14,7 @@
 
 
 <p>
-<h3>code formatting vs code</h3>
+<h3>Code formatting vs code</h3>
 
 {
   "editor.fontSize": 18,
